@@ -1,0 +1,10 @@
+Please enter a value for score: 84
+Here is the value you entered for score: 84
+
+ Score is even!
+
+Letter Grade is B
+
+C:\Users\xj82b\source\repos\CSC121-Jakopin\Debug\CSC121-Jakopin.exe (process 7360) exited with code 0.
+Press any key to close this window . . .
+

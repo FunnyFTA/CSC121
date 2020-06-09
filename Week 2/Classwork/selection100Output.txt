@@ -1,0 +1,20 @@
+Please enter a value for score: 100
+Here is the value you entered for score: 100
+Score is perfect!!!
+Bravo!
+
+ Score is even!
+
+Letter Grade is A
+
+C:\Users\xj82b\source\repos\CSC121-Jakopin\Debug\CSC121-Jakopin.exe (process 15352) exited with code 0.
+Press any key to close this window . . .
+
+
+
+
+
+
+
+
+
