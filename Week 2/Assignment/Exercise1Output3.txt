@@ -1,0 +1,14 @@
+Please enter a numeric value: 6
+
+Please enter a numeric value: 6
+
+
+They are equal
+
+
+C:\Users\xj82b\source\repos\CSC121-Jakopin\Debug\CSC121-Jakopin.exe (process 14364) exited with code 0.
+Press any key to close this window . . .
+
+
+
+

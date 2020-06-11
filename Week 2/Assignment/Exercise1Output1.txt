@@ -1,0 +1,13 @@
+Please enter a numeric value: 8
+
+Please enter a numeric value: 7
+
+
+The smallest value is 7
+
+
+C:\Users\xj82b\source\repos\CSC121-Jakopin\Debug\CSC121-Jakopin.exe (process 14072) exited with code 0.
+Press any key to close this window . . .
+
+
+
