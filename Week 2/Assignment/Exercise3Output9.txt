@@ -1,0 +1,7 @@
+Enter a letter grade: C-
+The numeric value is 1.7
+
+C:\Users\xj82b\source\repos\CSC121-Jakopin\Debug\CSC121-Jakopin.exe (process 19472) exited with code 0.
+Press any key to close this window . . .
+
+

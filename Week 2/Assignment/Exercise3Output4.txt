@@ -1,0 +1,8 @@
+Enter a letter grade: B+
+The numeric value is 3.3
+
+C:\Users\xj82b\source\repos\CSC121-Jakopin\Debug\CSC121-Jakopin.exe (process 15344) exited with code 0.
+Press any key to close this window . . .
+
+
+
