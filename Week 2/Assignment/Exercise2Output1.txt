@@ -1,0 +1,14 @@
+Enter a purchase amount to find out your shipping charges.
+
+Please input the amount of your purchase:       $147.36
+The shipping charge on a purchase of $147.36 is $5.00
+
+C:\Users\xj82b\source\repos\CSC121-Jakopin\Debug\CSC121-Jakopin.exe (process 11748) exited with code 0.
+Press any key to close this window . . .
+
+
+
+
+
+
+
