@@ -1,0 +1,21 @@
+
+Please enter a value for score: 100
+
+ Here is the value you entered 100
+
+What would you like to do with this score? :
+1. Perfect Score Check
+2. Even/Odd check
+3. Letter Grade Check
+4. Conditional operator used for Even/Odd Check
+9. Quit
+1
+
+Perfect Score!
+Bravo! Great!
+
+C:\Users\xj82b\source\repos\CSC121-Jakopin\Debug\CSC121-Jakopin.exe (process 20660) exited with code 0.
+Press any key to close this window . . .
+
+
+
