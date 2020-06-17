@@ -1,0 +1,36 @@
+Value of is is: 1
+Value of is is: 2
+Value of is is: 3
+Value of is is: 4
+Value of is is: 5
+Value of is is: 6
+Value of is is: 7
+Value of is is: 8
+Value of is is: 9
+Value of is is: 10
+
+Value of j is: 1
+Value of j is: 2
+Value of j is: 3
+Value of j is: 4
+Value of j is: 5
+Value of j is: 6
+Value of j is: 7
+Value of j is: 8
+Value of j is: 9
+Value of j is: 10
+
+Value of k is: 1
+Value of k is: 2
+Value of k is: 3
+Value of k is: 4
+Value of k is: 5
+Value of k is: 6
+Value of k is: 7
+Value of k is: 8
+Value of k is: 9
+Value of k is: 10
+
+
+C:\Users\xj82b\source\repos\CSC121-Jakopin\Debug\CSC121-Jakopin.exe (process 4648) exited with code 0.
+Press any key to close this window . . .
