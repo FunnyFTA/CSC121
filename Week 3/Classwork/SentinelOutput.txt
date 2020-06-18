@@ -1,0 +1,18 @@
+Please enter the number: 6
+Do you have another number? y
+Please enter the number: 27
+Do you have another number? Y
+Please enter the number: 3
+Do you have another number? Y
+Please enter the number: 8
+Do you have another number? n
+
+
+Average of the numbers is: 11
+Largest of the numbers is: 27
+Smallest of the numbers is: 3
+
+C:\Users\xj82b\source\repos\CSC121-Jakopin\Debug\CSC121-Jakopin.exe (process 10500) exited with code 0.
+Press any key to close this window . . .
+
+
