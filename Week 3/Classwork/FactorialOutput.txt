@@ -1,0 +1,7 @@
+Please enter the number for the factorial: 12
+The factorial of 12 is 479001600
+
+C:\Users\xj82b\source\repos\CSC121-Jakopin\Debug\CSC121-Jakopin.exe (process 8660) exited with code 0.
+Press any key to close this window . . .
+
+
