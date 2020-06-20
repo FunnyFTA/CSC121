@@ -1,0 +1,18 @@
+Enter a whole number less than 4,000 you wish to convert: 1974
+The Roman numeral of 1974 is MCMLXXIV
+
+C:\Users\xj82b\source\repos\CSC121-Jakopin\Debug\CSC121-Jakopin.exe (process 9848) exited with code 0.
+Press any key to close this window . . .
+
+
+
+
+
+
+
+
+
+
+
+
+
