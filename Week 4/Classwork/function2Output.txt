@@ -1,0 +1,8 @@
+is value i
+50
+50
+
+C:\Users\xj82b\source\repos\CSC121-Jakopin\Debug\CSC121-Jakopin.exe (process 25672) exited with code 0.
+Press any key to close this window . . .
+
+

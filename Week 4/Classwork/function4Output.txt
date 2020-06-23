@@ -1,0 +1,11 @@
+Please enter two integers: 7 98
+The product of 7 and 98 is: 686
+
+C:\Users\xj82b\source\repos\CSC121-Jakopin\Debug\CSC121-Jakopin.exe (process 18308) exited with code 0.
+Press any key to close this window . . .
+
+
+
+
+
+

@@ -1,0 +1,34 @@
+Would you like to check the factorial of a number? (Y/N): y
+
+Plese enter the number for the factorial: 5
+
+The factorial of 5 is 120
+Would you like to check the factorial of another number? (Y/N): Y
+
+Plese enter the number for the factorial: 10
+
+The factorial of 10 is 3628800
+Would you like to check the factorial of another number? (Y/N): y
+
+Plese enter the number for the factorial: 20
+
+The factorial of 20 is -2102132736
+Would you like to check the factorial of another number? (Y/N): y
+
+Plese enter the number for the factorial: 18
+
+The factorial of 18 is -898433024
+Would you like to check the factorial of another number? (Y/N): y
+
+Plese enter the number for the factorial: 17
+
+The factorial of 17 is -288522240
+Would you like to check the factorial of another number? (Y/N): y
+
+Plese enter the number for the factorial: 16
+
+The factorial of 16 is 2004189184
+Would you like to check the factorial of another number? (Y/N): n
+
+C:\Users\xj82b\source\repos\CSC121-Jakopin\Debug\CSC121-Jakopin.exe (process 23332) exited with code 0.
+Press any key to close this window . . .
