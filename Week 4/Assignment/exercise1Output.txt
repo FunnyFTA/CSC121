@@ -1,0 +1,57 @@
+                        Report to the media
+Event: Diving competition
+
+Enter the diver's name: Alex Jakopin
+Enter the diver's city: New York City
+Enter the score given by judge #1: 6.7
+Enter the score given by judge #2: 89
+Invalid score - Please reenter (Valid Range: 0 - 10)
+Enter the score given by judge #2: 89
+Invalid score - Please reenter (Valid Range: 0 - 10)
+Enter the score given by judge #2: 8.9
+Enter the score given by judge #3: 7.0
+Enter the score given by judge #4: 7
+Enter the score given by judge #5: 2.34
+What was the degree of difficutly? 1.3
+
+Diver: lex Jakopin, City: New York City
+Overall score was 8.97
+
+Do you want to process another diver (Y/N)? y
+Enter the diver's name: Emma Juffernbruch
+Enter the diver's city: Chicago
+Enter the score given by judge #1: 10
+Enter the score given by judge #2: 9.2
+Enter the score given by judge #3: 6.8
+Enter the score given by judge #4: 3
+Enter the score given by judge #5: 4.56
+What was the degree of difficutly? 1.78
+Invalid degree of difficulty - Please reenter (Valid Range: 1 - 1.67)
+What was the degree of difficulty? 1.43
+
+Diver: Emma Juffernbruch, City: Chicago
+Overall score was 9.80027
+
+Do you want to process another diver (Y/N)?
+Y
+Enter the diver's name: Jason Cruz
+Enter the diver's city: Chicago
+Enter the score given by judge #1: 3.6
+Enter the score given by judge #2: 6.3
+Enter the score given by judge #3: 4.8
+Enter the score given by judge #4: 8.4
+Enter the score given by judge #5: 9
+What was the degree of difficutly? 1.67
+
+Diver: Jason Cruz, City: Chicago
+Overall score was 10.855
+
+Do you want to process another diver (Y/N)? n
+
+
+        EVENT SUMMARY
+Number of divers participating: 3
+Average score of all divers: 9.87509
+
+C:\Users\xj82b\source\repos\CSC121-Jakopin\Debug\CSC121-Jakopin.exe (process 16708) exited with code 0.
+Press any key to close this window . . .
