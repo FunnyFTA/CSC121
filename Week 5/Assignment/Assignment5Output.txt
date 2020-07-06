@@ -1,0 +1,26 @@
+Enter a phone number (Q to quit): j58-093r
+Phone Number Dialed: 558-0937
+
+Enter a phone number (Q to quit): 555-98w3
+ERROR - Phone number cannot begin with 555
+
+Enter a phone number (Q to quit): ji2-83bd
+Phone Number Dialed: 542-8323
+
+Enter a phone number (Q to quit): j5k-03*5
+ERROR - An invalid character was entered
+
+Enter a phone number (Q to quit): j5k-0345
+ERROR - Phone number cannot begin with 555
+
+Enter a phone number (Q to quit): 4jr-092h
+Phone Number Dialed: 457-0924
+
+Enter a phone number (Q to quit): q12-p345
+Phone Number Dialed: 712-7345
+
+Enter a phone number (Q to quit): q
+
+
+C:\Users\xj82b\source\repos\CSC121-Jakopin\Debug\CSC121-Jakopin.exe (process 17328) exited with code 0.
+Press any key to close this window . . .
