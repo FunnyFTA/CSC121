@@ -1,0 +1,24 @@
+Please enther the label information:
+alexander
+jakopin
+60010
+alexander       jakopin
+60010
+
+Alexander       Jakopin
+60010
+
+Ben     Noble
+92847
+Please enther the label information:
+alex
+drews
+30957
+alex    drews
+30957
+
+
+C:\Users\xj82b\source\repos\CSC121-Jakopin\Debug\CSC121-Jakopin.exe (process 8156) exited with code 0.
+Press any key to close this window . . .
+
+

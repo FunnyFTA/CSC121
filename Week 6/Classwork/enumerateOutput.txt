@@ -1,0 +1,10 @@
+My size is: 11
+Your size is: 13
+Her size is: 12
+His size is: 10
+
+C:\Users\xj82b\source\repos\CSC121-Jakopin\Debug\CSC121-Jakopin.exe (process 17160) exited with code 0.
+Press any key to close this window . . .
+
+
+

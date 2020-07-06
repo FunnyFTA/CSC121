@@ -1,0 +1,22 @@
+Enter the persons first name, last name, and ZIP: Alexander
+Jakopin
+12345
+
+Alexander       Jakopin
+12345
+
+
+John    Smith
+60010
+
+Enter the persons first name, last name, and ZIP: Alex
+Drews
+90375
+
+Alex    Drews
+90375
+
+
+C:\Users\xj82b\source\repos\CSC121-Jakopin\Debug\CSC121-Jakopin.exe (process 4216) exited with code 0.
+Press any key to close this window . . .
+
