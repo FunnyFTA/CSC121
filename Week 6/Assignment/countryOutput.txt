@@ -1,0 +1,25 @@
+
+Enter the country's name (no spaces), or QUIT to finish: Slovenia
+Enter the population of Slovenia: 2095861
+Enter the area of Slovenia in square km: 20271
+
+Enter the country's name (no spaces), or QUIT to finish: Nepal
+Enter the population of Nepal: 28095714
+Enter the area of Nepal in square km: 147516
+
+Enter the country's name (no spaces), or QUIT to finish: Sweden
+Enter the population of Sweden: 10343403
+Enter the area of Sweden in square km: 450295
+
+Enter the country's name (no spaces), or QUIT to finish: Canada
+Enter the population of Canada: 37971020
+Enter the area of Canada in square km: 9984670
+
+Enter the country's name (no spaces), or QUIT to finish: QUIT
+
+Canada has the largest population with 37971020 people.
+Canada has the largest area with 9984670 square km.
+Nepal has the highest density with 190 people per square km.
+
+C:\Users\xj82b\source\repos\CSC121-Jakopin\Debug\CSC121-Jakopin.exe (process 10364) exited with code 0.
+Press any key to close this window . . .

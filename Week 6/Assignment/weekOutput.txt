@@ -1,0 +1,18 @@
+Saturday
+getDay() function:              Saturday
+plusOneDay() function:          Sunday
+minusOneDay() function:         Friday
+addDays() function:             Thursday
+
+Monday
+getDay() function:              Monday
+plusOneDay() function:          Tuesday
+minusOneDay() function:         Sunday
+addDays() function:             Saturday
+
+
+C:\Users\xj82b\source\repos\CSC121-Jakopin\Debug\CSC121-Jakopin.exe (process 20448) exited with code 0.
+Press any key to close this window . . .
+
+
+
