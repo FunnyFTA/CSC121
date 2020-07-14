@@ -1,0 +1,16 @@
+Please enter the name followed by the grade:
+Alex Drews
+A
+Grace McFarlane
+B
+Teddy Roosevelt
+A
+
+Alex Drews      A
+Grace McFarlane B
+Teddy Roosevelt A
+
+C:\Users\xj82b\source\repos\CSC121-Jakopin\Debug\CSC121-Jakopin.exe (process 25504) exited with code 0.
+Press any key to close this window . . .
+
+

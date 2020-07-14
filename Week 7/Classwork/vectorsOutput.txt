@@ -1,0 +1,28 @@
+Please enter salaries, 0 to quit:
+457.68
+37.89
+37645.11
+85
+38.00
+96.38
+0
+
+457.68
+37.89
+37645.1 <== highest value
+85
+38
+96.38
+
+New list with the last number removed
+
+457.68
+37.89
+37645.1
+85
+38
+
+C:\Users\xj82b\source\repos\CSC121-Jakopin\Debug\CSC121-Jakopin.exe (process 20868) exited with code 0.
+Press any key to close this window . . .
+
+
