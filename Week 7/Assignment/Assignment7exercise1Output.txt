@@ -1,0 +1,28 @@
+Enter an integer: 10
+Enter an integer: 11
+Enter an integer: 11
+Enter an integer: 12
+Enter an integer: 13
+Enter an integer: 12
+Enter an integer: 14
+Enter an integer: 15
+Enter an integer: 16
+Enter an integer: 17
+Enter an integer: 17
+Enter an integer: 18
+Enter an integer: 19
+Enter an integer: 20
+Enter an integer: 21
+Enter an integer: 22
+Enter an integer: 23
+Enter an integer: 24
+Enter an integer: 24
+Enter an integer: 25
+Enter an integer: 26
+Enter an integer: 27
+Enter an integer: 28
+Enter an integer: 29
+Unique values in the vector are:
+10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29,
+C:\Users\xj82b\source\repos\CSC121-Jakopin\Debug\CSC121-Jakopin.exe (process 12632) exited with code 0.
+Press any key to close this window . . .

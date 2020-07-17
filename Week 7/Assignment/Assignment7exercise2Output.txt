@@ -1,0 +1,34 @@
+Enter gross sales for salesperson #1: 789.35
+Enter gross sales for salesperson #2: 98.32
+Enter gross sales for salesperson #3: 8564
+Enter gross sales for salesperson #4: 356
+Enter gross sales for salesperson #5: 8752.15
+Enter gross sales for salesperson #6: 325.21
+Enter gross sales for salesperson #7: 897
+Enter gross sales for salesperson #8: 563
+Enter gross sales for salesperson #9: 999
+Enter gross sales for salesperson #10: 999
+Enter gross sales for salesperson #11: 5642
+Enter gross sales for salesperson #12: 1234.56
+Enter gross sales for salesperson #13: 786
+Enter gross sales for salesperson #14: 215.36
+Enter gross sales for salesperson #15: 4578
+Enter gross sales for salesperson #16: 236
+Enter gross sales for salesperson #17: 2568.33
+Enter gross sales for salesperson #18: 2654
+Enter gross sales for salesperson #19: 352
+Enter gross sales for salesperson #20: 2
+
+Count of employees in each salary range:
+The number of salespeople earning in range $200 - 299: 13
+The number of salespeople earning in range $300 - 399: 1
+The number of salespeople earning in range $400 - 499: 2
+The number of salespeople earning in range $500 - 599: 0
+The number of salespeople earning in range $600 - 699: 1
+The number of salespeople earning in range $700 - 799: 1
+The number of salespeople earning in range $800 - 899: 0
+The number of salespeople earning in range $900 - 999: 2
+The number of salespeople earning in range $1000 and over: 0
+
+C:\Users\xj82b\source\repos\CSC121-Jakopin\Debug\CSC121-Jakopin.exe (process 21968) exited with code 0.
+Press any key to close this window . . .
